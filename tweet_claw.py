@@ -7,8 +7,8 @@ import urllib.request, urllib.parse, hmac, hashlib, base64, time, random, string
 # ===== 填入你的 Twitter API Keys =====
 CONSUMER_KEY        = "0BckZBrAsnHauBLEHHcFWpj2R"
 CONSUMER_SECRET     = "IUHNUUgWXzXTeV81mrJp7QSYFQ4dY3CybR2jMpYGs0d87vuD9r"
-ACCESS_TOKEN        = "1268528405756051456-4BqzE8smBcaPaG0vNk09tsp0lOGkiH"
-ACCESS_TOKEN_SECRET = "V33Nj0g4PgIrDXYFhv3hxpSUDmNjidkZMU6hJscsbFaBj"
+ACCESS_TOKEN        = "1268528405756051456-WQjyQadsJQTkF5Xo0zJum8lEFvxVXM"
+ACCESS_TOKEN_SECRET = "USHp2I52EOVfCbt52WbRePlIY7BO99aJxeZL6gbrIYCQB"
 
 
 # ===== CLAW 推文内容 (10条 Thread) =====
